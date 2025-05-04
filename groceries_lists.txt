@@ -1,0 +1,5 @@
+Name: cake | Expiry: 01/01/2023 | Price: 50 | Specification: chocolate cake
+Name: milk | Expiry: 01/01/2023 | Price: 4.50 | Specification: 1L
+Name: chocolate | Expiry: 04/04/2023 | Price: 12.00 | Specification: chocolate milk
+Name: butter | Expiry: 03/03/2023 | Price: 4.50 | Specification: 250g
+Name: apple | Expiry: 01/01/2023 | Price: 10.00 | Specification: 6pcs/bag

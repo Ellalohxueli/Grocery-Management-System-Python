@@ -1,0 +1,8 @@
+None
+Name: bella | Address: 1,jln merah 1 | Email: bella@gmail.com | Contact Number: 0123456789 | Gender: female | Date of birth: 02/02/2002
+Name: kiara | Address: 2,jln kuning 2 | Email: kiara@hotmail.com | Contact Number: 0987654321 | Gender: female | Date of birth: 11/01/1998
+Name: tom | Address: 3, jln cemerlang 3 | Email: tom@gmail.com | Contact Number: 0214365879 | Gender: male | Date of birth: 01/01/2000
+Name: jerry | Address: 24,jalan jerry | Email: jerry@hamil.com | Contact Number: 0896754321 | Gender: male | Date of birth: 24/06/2000
+Name: sebrina | Address: 1,jalan kuala 1 | Email: sebrina@gmail.com | Contact Number: 0243156774 | Gender: female | Date of birth: 04/01/1999
+Name: ella | Address: ella@gmail.com | Email: ella@gamil.com | Contact Number: 0123456753 | Gender: female | Date of birth: 01/01/2000
+Name: victor | Address: 2,victor 1, victor land | Email: victor@gmail.com | Contact Number: 0163156743 | Gender: male | Date of birth: 04/05/1995

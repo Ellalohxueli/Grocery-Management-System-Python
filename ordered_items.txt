@@ -1,0 +1,8 @@
+None
+Name: chocolate | Expiry: 04/04/2023 | Price: 12.00 | Specification: dark chocolate bar , Name: milk | Expiry: 01/01/2023 | Price: 7.50 | Specification: 1L
+Name: cake | Expiry: 02/02/2023 | Price: 50.00 | Specification: tiramisu, Name: cheese | Expiry: 03/03/2023 | Price: 5.40 | Specification: 6pcs, Name: cheese | Expiry: 03/03/2023 | Price: 5.40 | Specification: 6pcs
+None
+None
+None
+Name: cake | Expiry: 01/01/2023 | Price: 50 | Specification: chocolate cake
+None
